@@ -5,8 +5,16 @@
   background-color: rgb(247, 243, 229);
 }
 
+.body {
+  
+}
+
 a {
   text-decoration: none;
+}
+
+a:visited {
+  color: blue;
 }
 
 .background {
@@ -25,3 +33,4 @@ a {
   margin-right: 15px;
   margin-bottom: 50px;
 }
+
